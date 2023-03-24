@@ -21,11 +21,11 @@ To run this application, you will need Node.js and npm installed on your local m
 
 
 ## Technologies Used
-NextJS
-Typescript
-Tailwind CSS
-React
-Node.js
+- NextJS
+- Typescript
+- Tailwind CSS
+- React
+- Node.js
 
 ## Contact
 If you have any questions or feedback, please contact Jovan at [jovan.reyes.dev@gmail.com].
